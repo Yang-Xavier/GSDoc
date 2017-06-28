@@ -1,0 +1,167 @@
+
+
+[{ type:filter,
+   info:{
+	 filterId:101,
+	 para:{ para1:23,
+	        par2:34
+	       }
+	 }
+ },
+ { type:poster,
+   info:{posterId:101}
+ }]
+
+
+
+
+
+{headImageUrl:http://api.example.com,
+ userName:Tom,
+ signature:生活从此toocool
+ telNum:150XXXXXXXX
+}
+
+
+
+[{imgUrl:http://api.example.com/p1,
+  imgId:10001,
+  processValue:[],
+  styleId:10002,
+  likeNum:12,
+  collectionNum:23
+},...]
+
+
+[{styleName:梵高,
+  styleId:10002,
+  styleImgUrl:http://api.example.com/p1,
+  resultImgUrl:http://api.example.com/p1,
+  originImgUrl:http://api.example.com/p1,
+  likeNum:12,
+  collectionNum:23
+},...]
+
+
+
+[{styleName:梵高,
+  styleId:10002,
+  styleImgUrl:http://api.example.com/p1
+}...]
+
+
+
+
+[{imgUrl:http://api.example.com/p1,
+  imgId:10001,
+  processValue:[],
+  styleId:10002,
+  likeNum:12,
+  collectionNum:23,
+  isShared:true
+},...]
+
+
+
+
+[{styleName:梵高,
+  styleId:10002,
+  styleImgUrl:http://api.example.com/p1,
+  resultImgUrl:http://api.example.com/p1,
+  originImgUrl:http://api.example.com/p1,
+  likeNum:12,
+  collectionNum:23,
+  isShared:true
+},...]
+
+
+
+
+[{imgUrl:http://api.example.com/p1,
+  imgId:10001,
+  processValue:[],
+  styleId:10002,
+  authorInfo:{userId:100001,
+	      headImageUrl:http://api.example.com,
+ 	      userName:Tom,
+ 	      signature:生活从此toocool}
+  isFollowed:true,
+  isLiked:true,
+  isCollected:true,
+  likeNum:12,
+  collectionNum:23,
+},...]
+
+
+
+
+[{styleName:梵高,
+  styleId:10002,
+  styleImgUrl:http://api.example.com/p1,
+  resultImgUrl:http://api.example.com/p1,
+  originImgUrl:http://api.example.com/p1,
+  authorInfo:{userId:100001,
+	      headImageUrl:http://api.example.com,
+ 	      userName:Tom,
+ 	      signature:生活从此toocool}
+  isFollowed:true,
+  isLiked:true,
+  isCollected:true,
+  likeNum:12,
+  collectionNum:23,
+},...]
+
+
+
+
+
+{follows:[{userId:100001,
+	   headImageUrl:http://api.example.com,
+ 	   userName:Tom,
+           signature:生活从此toocool},...]
+}
+
+
+{followers:[{userId:100001,
+	   headImageUrl:http://api.example.com,
+ 	   userName:Tom,
+           signature:生活从此toocool},...]
+}
+
+
+
+{imgUrl:http://api.example.com/p1,
+  processValue:[],
+  styleId:10002,
+  isShared:true
+}
+
+
+{styleName:梵高,
+ styleImgUrl:http://api.example.com/p1,
+ resultImgUrl:http://api.example.com/p1,
+ originImgUrl:http://api.example.com/p1,
+ isShared:true
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
