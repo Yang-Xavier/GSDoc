@@ -138,13 +138,12 @@
 
 
 {styleName:èó¸ß,
- styleImgUrl:http://api.example.com/p1,
- resultImgUrl:http://api.example.com/p1,
- originImgUrl:http://api.example.com/p1,
  isShared:true
 }
 
-
+{type:facedect
+ value:1
+}
 
 
 
